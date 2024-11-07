@@ -1,0 +1,11 @@
+.env
+.DS_Store
+/frontend/node_modules
+/backend/.venv
+/web/.next
+*node_modules
+/EvoAGI/backend
+
+backend/fastembed_cache
+
+backend/poetry.lock
